@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.StabTest",
+  "simulationId": "stabtest",
+  "start": 1651163058800,
+  "description": "",
+  "scenarios": ["first scenario"],
+  "assertions": [
+
+  ]
+}
