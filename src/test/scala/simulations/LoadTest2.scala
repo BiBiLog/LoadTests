@@ -6,7 +6,7 @@ import scenarios.Simulation.postOrdersScen
 
 class LoadTest2 extends Simulation {
 
-  val httpConf = http.baseUrl("http://localhost:8091/")
+  val httpConf = http.baseUrl("dip_web")
   setUp(
     postOrdersScen.inject(
 
